@@ -84,7 +84,7 @@ REACT_APP_API_BASE_URL=http://localhost:8000/api
 
 ## 📮 API Documentation
 
-- Full Postman collection available: [📥 Download Collection](./postman_collection.json)
+- Full Postman collection available: [📥 Download Collection](https://github.com/junaidtariq48/news-aggregator/tree/main/blob/main/postman_collection.json)
 - Base URL: `http://localhost:8000/api`
 
 ---
